@@ -15,7 +15,6 @@
     "strictNullChecks": false,
     "noImplicitAny": false,
     "strictBindCallApply": false,
-    "forceConsistentCa singInFileNames": false,
     "noFallthroughCasesInSwitch": false,
     "paths": {
       "@app/*": ["./src/*"]
